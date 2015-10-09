@@ -18,7 +18,7 @@ import java.util.Iterator;
 import java.util.List;
 
 /**
- * @author Mobius
+ * @author Mobius and Akiflola
  * @version $Revision: 1.0 $
  */
 public final class CollectionUtils
